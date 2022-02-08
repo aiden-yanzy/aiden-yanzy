@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me: https://aiden-yanzy.github.io/resume?user=aiden-yanzy&branch={master}&mode=edit
+About me:  https://visiky.github.io/resume?user=aiden-yanzy&branch={master}&mode=edit
